@@ -1,5 +1,7 @@
 {
   "name": "project-fomo",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@rails/webpacker": "^3.5.5"
+  }
 }
